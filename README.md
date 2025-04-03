@@ -1,1 +1,3 @@
 # ArcAndPySamples
+
+## GIT practices
