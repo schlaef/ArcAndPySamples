@@ -1,4 +1,4 @@
 # ArcAndPySamples
 
 ## GIT practices
-## Test
+## Test STS
